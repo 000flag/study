@@ -1,0 +1,14 @@
+{
+  "skipped": {
+    "department": "datetime 컬럼 없음",
+    "exam": "datetime 컬럼 없음",
+    "exam_frame": "datetime 컬럼 없음",
+    "professor": "datetime 컬럼 없음",
+    "question": "datetime 컬럼 없음",
+    "root": "datetime 컬럼 없음",
+    "stu_ans": "datetime 컬럼 없음",
+    "stu_sub_info": "datetime 컬럼 없음",
+    "student": "datetime 컬럼 없음",
+    "subject": "datetime 컬럼 없음"
+  }
+}

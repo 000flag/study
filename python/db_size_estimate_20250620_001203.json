@@ -1,0 +1,15 @@
+{
+  "skipped": {
+    "attendance": "datetime 컬럼 없음",
+    "board": "datetime 컬럼 없음",
+    "dept": "datetime 컬럼 없음",
+    "emp": "datetime 컬럼 없음",
+    "log": "datetime 컬럼 없음",
+    "position": "datetime 컬럼 없음",
+    "report": "datetime 컬럼 없음",
+    "sal": "datetime 컬럼 없음",
+    "vacation_policy": "datetime 컬럼 없음",
+    "vacation_process": "datetime 컬럼 없음",
+    "vacation_request": "datetime 컬럼 없음"
+  }
+}

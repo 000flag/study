@@ -1,0 +1,20 @@
+{
+  "skipped": {
+    "account": "datetime 컬럼 없음",
+    "bbs": "datetime 컬럼 없음",
+    "bbs_t": "datetime 컬럼 없음",
+    "book_t": "datetime 컬럼 없음",
+    "category1_t": "datetime 컬럼 없음",
+    "category1_t_seq": "datetime 컬럼 없음",
+    "comment_t": "datetime 컬럼 없음",
+    "dept": "datetime 컬럼 없음",
+    "emp": "datetime 컬럼 없음",
+    "locations": "datetime 컬럼 없음",
+    "member": "datetime 컬럼 없음",
+    "member_t": "datetime 컬럼 없음",
+    "memo_t": "datetime 컬럼 없음",
+    "product_t": "datetime 컬럼 없음",
+    "product_t_seq": "datetime 컬럼 없음",
+    "shop_t": "datetime 컬럼 없음"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "skipped": {
+    "basket": "datetime 컬럼 없음",
+    "board": "datetime 컬럼 없음",
+    "board_prod": "datetime 컬럼 없음",
+    "coupon": "datetime 컬럼 없음",
+    "customer": "datetime 컬럼 없음",
+    "delivery": "datetime 컬럼 없음",
+    "inventory": "datetime 컬럼 없음",
+    "log": "datetime 컬럼 없음",
+    "major_category": "datetime 컬럼 없음",
+    "middle_category": "datetime 컬럼 없음",
+    "order": "datetime 컬럼 없음",
+    "point": "datetime 컬럼 없음",
+    "prod_like": "datetime 컬럼 없음",
+    "product": "datetime 컬럼 없음",
+    "reply": "datetime 컬럼 없음",
+    "root": "datetime 컬럼 없음",
+    "seller": "datetime 컬럼 없음"
+  }
+}
